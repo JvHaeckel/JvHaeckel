@@ -7,10 +7,10 @@
 - 😄 Pronouns: ele/dele
 
   <div>
-        <a href=""></a>
         <!-- Colocando a 1 tabela - GitHub Stats -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height="180em"
-            src="http://github-readme-stats.vercel.app/api?username=JvHaeckel&show_icons=true&theme=aura&include_all_commits=true&count_private=true"
+            src="https://github-readme-stats.vercel.app/api/pin/?username=JvHaeckel&show_icons=true&theme=aura&include_all_commits=true&count_private=true"
             alt="">
         <!-- Colocando a 2 tabela - Most Used Languages -->
         <img height="180em"
