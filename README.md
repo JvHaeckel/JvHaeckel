@@ -12,3 +12,7 @@
     <img height="180em" src="http://github-readme-stats.vercel.app/api?username=JvHaeckel&show_icons=true&theme=aura&include_all_commits=true&count_private=true" alt="">
     <img height="180em" src="http://github-readme-stats.vercel.app/api/top-langs/?username=JvHaeckel&layout=compact&langs_count=16&theme=aura" >
 </div>
+
+<div>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+</div>   
