@@ -7,17 +7,21 @@
 - 😄 Pronouns: ...
 
 
-<div>
-    <a href=""></a>
-    <img height="180em" src="http://github-readme-stats.vercel.app/api?username=JvHaeckel&show_icons=true&theme=aura&include_all_commits=true&count_private=true" alt="">
-    <img height="180em" src="http://github-readme-stats.vercel.app/api/top-langs/?username=JvHaeckel&layout=compact&langs_count=16&theme=aura" >
-</div>
+ <div>
+        <a href=""></a>
+        <img height="180em"
+            src="http://github-readme-stats.vercel.app/api?username=JvHaeckel&show_icons=true&theme=aura&include_all_commits=true&count_private=true"
+            alt="">
+        <img height="180em"
+            src="http://github-readme-stats.vercel.app/api/top-langs/?username=JvHaeckel&layout=compact&langs_count=16&theme=aura">
+    </div>
 
-<div>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-</div>  
+    <div>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+    </div>
 
-<div style="display: inline_block;"> <br>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"  alt="joao-Js">
+    <div style="display: inline_block;"> <br>
+        <img align="center" height="30" width="40"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="joao-Js">
 
-</div>
+    </div>
