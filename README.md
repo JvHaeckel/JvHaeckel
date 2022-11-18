@@ -6,11 +6,11 @@
 - 📫 joaohaeckel@gmail.com 
 - 😄 Pronouns: ele/dele
 
-  <div>
+<div>
+        <a href=""></a>
         <!-- Colocando a 1 tabela - GitHub Stats -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height="180em"
-            src="https://github-readme-stats.vercel.app/api/pin/?username=JvHaeckel&repo=github-readme-stats&show_icons=true&theme=aura&include_all_commits=true&count_private=true"
+            src="http://github-readme-stats.vercel.app/api?username=JvHaeckel&show_icons=true&theme=aura&include_all_commits=true&count_private=true"
             alt="">
         <!-- Colocando a 2 tabela - Most Used Languages -->
         <img height="180em"
@@ -20,20 +20,18 @@
     <div>
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
     </div>
-
     <div style="display: inline_block;"> <br>
         <img height="30" width="40" align="center"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="joao-Js">
 
     </div>
     <div style="display: inline_block;"> 
-        <img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
+        <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
             alt="joao-Js">
 
     </div>
     <div style="display: inline_block;"> 
-        <img height="30" width="40" align="center"
-             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+        <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
             alt="joao-Js">
 
     </div>
@@ -57,5 +55,3 @@
             alt="joao-Js">
 
     </div>
-
-   
