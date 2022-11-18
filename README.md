@@ -15,4 +15,9 @@
 
 <div>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-</div>   
+</div>  
+
+<div style="display: inline_block;"> <br>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"  alt="joao-Js">
+
+</div>
