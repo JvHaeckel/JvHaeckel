@@ -17,34 +17,42 @@
             src="http://github-readme-stats.vercel.app/api/top-langs/?username=JvHaeckel&layout=compact&langs_count=16&theme=aura">
     </div>
     <!-- Colocando os icons-->
-    <div>
+    <div class="row">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
     </div>
-    <div style="display: inline_block;"> <br>
-        <img height="30" width="40" align="center"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="joao-Js">
-    </div>
-    <div style="display: inline_block;"> 
-        <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
+    <div class="coluna" style="display: inline_block; float: left; width: auto;"> <br>
+        <img height="30" width="40" style="clear: both;
+        display: table;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
             alt="joao-Js">
     </div>
-    <div style="display: inline_block;"> 
-        <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+    <div class="coluna" style="display: inline_block; float: left; width: auto;"> <br>
+        <img height="30" width="40" style="clear: both;
+        display: table;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
             alt="joao-Js">
     </div>
-    <div style="display: inline_block;"> 
-        <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+    <div class="coluna" style="display: inline_block; float: left; width: auto;"> <br>
+        <img height="30" width="40" style="clear: both;
+        display: table;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
             alt="joao-Js">
     </div>
-    <div style="display: inline_block;"> 
-        <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"
+    <div class="coluna" style="display: inline_block; float: left; width: auto;"> <br>
+        <img height="30" width="40" style="clear: both;
+        display: table;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
             alt="joao-Js">
     </div>
-    <div style="display: inline_block;"> 
-        <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+    <div class="coluna" style="display: inline_block; float: left; width: auto;"> <br>
+        <img height="30" width="40" style="clear: both;
+        display: table;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"
             alt="joao-Js">
     </div>
-    <div style="display: inline_block;"> 
-        <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+    <div class="coluna" style="display: inline_block; float: left; width: auto;"> <br>
+        <img height="30" width="40" style="clear: both;
+        display: table;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+            alt="joao-Js">
+    </div style>
+    <div class="coluna" style="display: inline_block; float: left; width: auto;"> <br>
+        <img height="30" width="40" style="clear: both;
+        display: table;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
             alt="joao-Js">
     </div>
+   
