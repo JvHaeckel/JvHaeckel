@@ -1,11 +1,10 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning 
+- 📫 joaohaeckel@gmail.com 
+- 😄 Pronouns: ele/dele
 
  <div>
         <a href=""></a>
