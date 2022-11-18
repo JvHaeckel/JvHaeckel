@@ -22,17 +22,18 @@
     </div>
 
     <div style="display: inline_block;"> <br>
-        <img height="30" width="40"
+        <img height="30" width="40" align="center"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="joao-Js">
 
     </div>
     <div style="display: inline_block;"> 
-        <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
+        <img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
             alt="joao-Js">
 
     </div>
     <div style="display: inline_block;"> 
-        <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+        <img height="30" width="40" align="center"
+             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
             alt="joao-Js">
 
     </div>
