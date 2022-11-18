@@ -19,11 +19,9 @@
      <div class="row" style="width: 0;">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
     </div>
-
     <div class="coluna" style="display: inline_block; float: left;width: 10;"> <br>
         <img height="30" width="40" display: table;"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="joao-Js">
-
     </div>
     <div class="coluna" style="display: inline_block; float: left;width: 10;"> <br>
         <img height="30" width="40" style=" display: table;"
