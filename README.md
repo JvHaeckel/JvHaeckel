@@ -20,22 +20,22 @@
     <div class="row">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
     </div>
-    <div class="coluna" style="display: inline_block; float: left; margin:0"; pading:0> <br>
+    <div class="coluna" style="display: inline_block; float: left; margin:0";width: 10> <br>
         <img height="30" width="40" style="clear: both;
         display: table;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
             alt="joao-Js">
     </div>
-    <div class="coluna" style="display: inline_block; float: left; width: auto;"> <br>
+    <div class="coluna" style="display: inline_block; float: left; width: auto;width: 10"> <br>
         <img height="30" width="40" style="clear: both;
         display: table;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
             alt="joao-Js">
     </div>
-    <div class="coluna" style="display: inline_block; float: left; width: auto;"> <br>
+    <div class="coluna" style="display: inline_block; float: left; width: auto;width: 10"> <br>
         <img height="30" width="40" style="clear: both;
         display: table;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
             alt="joao-Js">
     </div>
-    <div class="coluna" style="display: inline_block; float: left; width: auto;"> <br>
+    <div class="coluna" style="display: inline_block; float: left; width: auto; width: 10"> <br>
         <img height="30" width="40" style="clear: both;
         display: table;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
             alt="joao-Js">
