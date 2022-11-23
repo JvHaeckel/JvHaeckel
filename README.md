@@ -2,7 +2,6 @@
 
 - 🔭 Estudando na  <a href="http://www.gama.academy/?&utm_source=google&utm_medium=paid-search&utm_campaign=brand-awareness&utm_term=gama-academy&gclid=Cj0KCQiA99ybBhD9ARIsALvZavU_6dtECVotHmLr37ErJ6XD3ZFmwHixIqAU2BmXEaSM3L31twPl0y8aAsGJEALw_wcB">Gama</a>
 - 🌱 Estudando Front End no geral 
-- 📫 joaohaeckel@gmail.com 
 - 😄 Pronouns: ele/dele
 
 <div>
