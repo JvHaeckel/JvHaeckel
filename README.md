@@ -4,7 +4,7 @@
 - 🌱 Estudando Front End no geral 
 - 😄 Pronouns: ele/dele
 
-<div display:inline-block;>
+<div>
         <a href=""></a>
         <!-- Colocando a 1 tabela - GitHub Stats -->
         <img height="180em"
@@ -15,7 +15,7 @@
             src="http://github-readme-stats.vercel.app/api/top-langs/?username=JvHaeckel&layout=compact&langs_count=16&theme=aura">
     </div>
      <!-- Colocando os icons-->
-    <div class="row" style="width: 0;">
+    <div class="row" style="width: 0;" display:inline-block>
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
     </div>
    <div class="coluna" style="display: flex; align-itens:center ;width: 10;"> <br>
