@@ -18,19 +18,19 @@
     <div class="row" style="width: 0; align:left">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
     </div>
-   <div class="coluna" style="display: flex; align-itens:center ;width: 10;"> <br>
+   <div class="coluna" style="display: flex; align-itens:center ;width: 10;"> 
         <img height="30" width="40" display: table;"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="joao-Js">
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular JS">
     </div>
-    <<div class="coluna" style="display: flex; align-itens:center ;width: 10;"> <br>
+    <<div class="coluna" style="display: flex; align-itens:center ;width: 10;"> 
         <img height="30" width="40" style=" display: table;"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="joao-Js">
     </div>
-    <div class="coluna" style="display: flex; align-itens:center ;width: 10;"> <br>
+    <div class="coluna" style="display: flex; align-itens:center ;width: 10;"> 
         <img height="30" width="40" style="
         display: table;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="joao-Js">
     </div>
-    <div class="coluna" style="display: flex; align-itens:center ;width: 10;"> <br>
+    <div class="coluna" style="display: flex; align-itens:center ;width: 10;"> 
         <img height="30" width="40" style="
         display: table;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
             alt="joao-Js">
