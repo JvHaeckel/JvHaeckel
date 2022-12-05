@@ -45,7 +45,7 @@
         display: table;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
             alt="joao-Js">
     </div style>
-    <div class="coluna" style="display: flex; align-itens:center ;width: 10;"> 
+    <div  ;width: 10;"> 
         <img height="30" width="40" style="
         display: table;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="joao-Js">
     </div>
