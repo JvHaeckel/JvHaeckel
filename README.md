@@ -14,8 +14,7 @@
         <img height="180em"
             src="http://github-readme-stats.vercel.app/api/top-langs/?username=JvHaeckel&layout=compact&langs_count=16&theme=aura">
     </div>
-   
-   <!-- Colocando os icons-->
+<!-- Colocando os icons-->
     <div style=""> 
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
     </div>
