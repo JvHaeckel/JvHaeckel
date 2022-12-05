@@ -15,22 +15,22 @@
             src="http://github-readme-stats.vercel.app/api/top-langs/?username=JvHaeckel&layout=compact&langs_count=16&theme=aura">
     </div>
      <!-- Colocando os icons-->
-    <div class="row" style="width: 0;"style=" display:flex; align-itens:left; justify-content:center">
+    <div class="row" style="width: 0; display: flex; align-itens:center">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
     </div>
-   <div class="coluna" style="display: flex; align-itens:center ;width: 10;"> 
+   <div class="coluna" style="display: flex; align-itens:center ;width: 10;"> <br>
         <img height="30" width="40" display: table;"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="joao-Js">
     </div>
-    <<div class="coluna" style="display: flex; align-itens:center ;width: 10;"> 
+    <<div class="coluna" style="display: flex; align-itens:center ;width: 10;"> <br>
         <img height="30" width="40" style=" display: table;"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="joao-Js">
     </div>
-    <div class="coluna" style="display: flex; align-itens:center ;width: 10;"> 
+    <div class="coluna" style="display: flex; align-itens:center ;width: 10;"> <br>
         <img height="30" width="40" style="
         display: table;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="joao-Js">
     </div>
-    <div class="coluna" style="display: flex; align-itens:center ;width: 10;"> 
+    <div class="coluna" style="display: flex; align-itens:center ;width: 10;"> <br>
         <img height="30" width="40" style="
         display: table;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
             alt="joao-Js">
