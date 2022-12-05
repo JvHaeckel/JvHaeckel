@@ -14,38 +14,39 @@
         <img height="180em"
             src="http://github-readme-stats.vercel.app/api/top-langs/?username=JvHaeckel&layout=compact&langs_count=16&theme=aura">
     </div>
-     <!-- Colocando os icons-->
-    <div class="row" style="width: 0; align:left">
+   
+   <!-- Colocando os icons-->
+    <div style=""> 
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
     </div>
-   <div class="coluna" style="display: flex; align-itens:center ;width: 10;"> 
+    <div style="">  
         <img height="30" width="40" display: table;"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular JS">
     </div>
-    <<div class="coluna" style="display: flex; align-itens:center ;width: 10;"> 
+    <div style=""> 
         <img height="30" width="40" style=" display: table;"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="joao-Js">
     </div>
-    <div class="coluna" style="display: flex; align-itens:center ;width: 10;"> 
+    <div style=""> 
         <img height="30" width="40" style="
         display: table;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="joao-Js">
     </div>
-    <div class="coluna" style="display: flex; align-itens:center ;width: 10;"> 
+     <div style=""> 
         <img height="30" width="40" style="
         display: table;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
             alt="joao-Js">
     </div>
-   <div class="coluna" style="display: flex; align-itens:center ;width: 10;"> 
+    <div style="">  
         <img align="center" height="30" width="40" style="
         display: table;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"
            alt="joao-Js">
     </div>
-    <div style="width: 10;"> 
+     <div style=""> 
         <img height="30" width="40" style="
         display: table;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
             alt="joao-Js">
     </div>
-    <div style="width: 1;"> 
+    <div style=""> 
         <img height="30" width="40" style="
         display: table;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="joao-Js">
     </div>
