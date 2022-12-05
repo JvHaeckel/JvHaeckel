@@ -13,6 +13,7 @@
         <!--  2 TABELA - Most Used Languages -->
         <img height="180em"
             src="http://github-readme-stats.vercel.app/api/top-langs/?username=JvHaeckel&layout=compact&langs_count=16&theme=aura">
+        <br><br><br><br>
    ### Minhas skills
 
 <div align="left">
