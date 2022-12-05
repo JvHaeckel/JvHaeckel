@@ -15,7 +15,7 @@
             src="http://github-readme-stats.vercel.app/api/top-langs/?username=JvHaeckel&layout=compact&langs_count=16&theme=aura">
     </div>
 <!-- Colocando os icons-->
-    <div style=""> 
+    <div style="display: inline-block"> 
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
     </div>
     <div style="">  
