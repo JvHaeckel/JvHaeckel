@@ -1,4 +1,4 @@
-### Oii! 👋
+# Oii! 👋
 
 - 🔭 Estudando na  <a href="http://www.gama.academy/?&utm_source=google&utm_medium=paid-search&utm_campaign=brand-awareness&utm_term=gama-academy&gclid=Cj0KCQiA99ybBhD9ARIsALvZavU_6dtECVotHmLr37ErJ6XD3ZFmwHixIqAU2BmXEaSM3L31twPl0y8aAsGJEALw_wcB">Gama</a>
 - 🌱 Estudando Front End no geral 
@@ -15,7 +15,7 @@
             src="http://github-readme-stats.vercel.app/api/top-langs/?username=JvHaeckel&layout=compact&langs_count=16&theme=aura">
     </div>
      <!-- Colocando os icons-->
-    <div class="row" style="width: 0; display: flex; align-itens:center">
+    <div class="row" style="width: 0; align:left">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
     </div>
    <div class="coluna" style="display: flex; align-itens:center ;width: 10;"> <br>
