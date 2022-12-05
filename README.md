@@ -15,7 +15,7 @@
             src="http://github-readme-stats.vercel.app/api/top-langs/?username=JvHaeckel&layout=compact&langs_count=16&theme=aura">
     </div>
      <!-- Colocando os icons-->
-    <div class="row" style="width: 0;"style=" display:inline-block;">
+    <div class="row" style="width: 0;"style=" display:flex; align-itens:center; justify-content:center">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
     </div>
    <div class="coluna" style="display: flex; align-itens:center ;width: 10;"> <br>
