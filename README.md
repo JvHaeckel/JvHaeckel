@@ -6,11 +6,11 @@
 
 <div>
         <a href=""></a>
-        <!-- Colocando a 1 tabela - GitHub Stats -->
+        <!--  1 TABELA - GitHub Stats -->
         <img height="180em"
             src="http://github-readme-stats.vercel.app/api?username=JvHaeckel&show_icons=true&theme=aura&include_all_commits=true&count_private=true"
             alt="">
-        <!-- Colocando a 2 tabela - Most Used Languages -->
+        <!--  2 TABELA - Most Used Languages -->
         <img height="180em"
             src="http://github-readme-stats.vercel.app/api/top-langs/?username=JvHaeckel&layout=compact&langs_count=16&theme=aura">
     </div>
