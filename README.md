@@ -14,7 +14,7 @@
         <img height="180em"
             src="http://github-readme-stats.vercel.app/api/top-langs/?username=JvHaeckel&layout=compact&langs_count=16&theme=aura">
         <br><br>
-        <h2> Minhas skills </h2>
+        <h3> Minhas skills </h3>
 <br><br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
