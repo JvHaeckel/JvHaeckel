@@ -3,8 +3,8 @@
 <p>Focado na resolução de problemas, construindo  embasamento em lógica. Sempre aprendendo e buscando ajudar.</p>
 
 - 🔭 Estudando na  <a href="http://www.gama.academy/?&utm_source=google&utm_medium=paid-search&utm_campaign=brand-awareness&utm_term=gama-academy&gclid=Cj0KCQiA99ybBhD9ARIsALvZavU_6dtECVotHmLr37ErJ6XD3ZFmwHixIqAU2BmXEaSM3L31twPl0y8aAsGJEALw_wcB">Gama</a>
-- 🌱 Estudando Front End no geral 
-- 😄 Pronouns: ele/dele
+- 🌱 Estudando sempre;
+- 😄 Pronouns: ele/dele;
 
 <div>
         <a href=""></a>
