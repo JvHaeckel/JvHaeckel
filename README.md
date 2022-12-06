@@ -18,7 +18,7 @@
         <br><br>
         <h3> Minhas skills </h3>
 <br><br>
-<div align="left" space-bet>
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" width="72" alt="javascript logo" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" width="72" alt="git logo"/>                       
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="60" width="72" alt="github logo" />             
