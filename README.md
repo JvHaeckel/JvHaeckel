@@ -2,8 +2,8 @@
 
 <p>  Estagiando no <a hreff="https://sebrae.com.br/sites/PortalSebrae/"> SEBRAE </a> Focado na resolução de problemas, construindo  embasamento em lógica. Sempre aprendendo e buscando passar meu conhecimento adiante.</p>
 
-Web- 🔭 Estudando na  <a href="https://alunos.b7web.com.br/curso/javascript/js-introducao-ao-javascript">B7Web </a> e <a href="https://aulas.cubos.academy/sucesso-compartilhado/71f3bfb0-d12b-49ce-add6-155200489dc7?utm_campaign=20230613_softwareDevelopment_candidatosIfood1000_descodificandoOExercicioPratico&utm_medium=email&_hsmi=262310861&_hsenc=p2ANqtz-8wYzSK8FrJmaXukEANmtdlIn2rq3XHGUMCqEMcmofUGmlS-llXx0H6_9l7smjxJPDzFx-HZeq0qncUZAL6OAwjjLqjcw&utm_content=262310861&utm_source=hs_automation"> Cubos </a>
-- 🌱 Praticando HTML | CSS | JavaScript | SQL | PYTHON;
+<!-- Web- 🔭 Estudando na  <a href="https://alunos.b7web.com.br/curso/javascript/js-introducao-ao-javascript">B7Web </a> e <a href="https://aulas.cubos.academy/sucesso-compartilhado/71f3bfb0-d12b-49ce-add6-155200489dc7?utm_campaign=20230613_softwareDevelopment_candidatosIfood1000_descodificandoOExercicioPratico&utm_medium=email&_hsmi=262310861&_hsenc=p2ANqtz-8wYzSK8FrJmaXukEANmtdlIn2rq3XHGUMCqEMcmofUGmlS-llXx0H6_9l7smjxJPDzFx-HZeq0qncUZAL6OAwjjLqjcw&utm_content=262310861&utm_source=hs_automation"> Cubos </a> -->
+
 - 😄 Pronouns: ele/dele;
 
 <div>
